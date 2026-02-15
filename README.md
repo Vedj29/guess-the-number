@@ -6,7 +6,7 @@ The player tries to guess a secret number, and the program provides hints until 
 
 ---
 
-## 📌 Features
+##  Features
 
 - User input handling
 - Infinite loop using `while True`
@@ -19,7 +19,7 @@ The player tries to guess a secret number, and the program provides hints until 
 
 ---
 
-## 🧠 How the Game Works
+## How the Game Works
 
 1. A secret number is predefined in the program.
 2. The user is asked to guess the number.
@@ -28,7 +28,7 @@ The player tries to guess a secret number, and the program provides hints until 
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Basic programming concepts:
@@ -39,9 +39,9 @@ The player tries to guess a secret number, and the program provides hints until 
 
 ---
 
-## ▶️ How to Run the Project
 
-### 1️⃣ Clone the Repository
+
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/VedantJoshi/Guess-The-Number.git
